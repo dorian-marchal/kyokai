@@ -2,7 +2,7 @@
   "name": "kyokai",
   "theme": "syntax",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "A monokai based theme",
   "repository": "https://github.com/dorian-marchal/kyokai",
   "license": "MIT",
